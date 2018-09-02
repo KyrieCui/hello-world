@@ -1,2 +1,4 @@
 # hello-world
-just an other repository
+  
+ Hi everybody!
+   I'm kyrie, a university student in uic.
